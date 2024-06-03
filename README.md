@@ -6,9 +6,13 @@ This project involves creating a detailed finance analytics report for Atliq Har
 
 **Key Insights**
 Profit & Loss By Year: Analyzed overall profit and loss on a yearly basis.
+
 Profit & Loss By Fiscal Year and Market: Evaluated profit and loss segmented by fiscal year and market.
+
 Profit & Loss By Fiscal Months: Detailed monthly profit and loss analysis within fiscal years.
+
 Profit & Loss For Market: Focused on profit and loss specific to different markets.
+
 Gross Margin % By Quarter (Sub Zone): Assessed gross margin percentage on a quarterly basis, segmented by sub-zone.
 
 **Tools and Techniques Used**
