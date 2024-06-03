@@ -56,7 +56,6 @@ Conditional Formatting:
 Apply conditional formatting to highlight key data points and trends.
 
 **Skills Demonstrated**
-
 Data Analysis and Visualization
 
 Advanced Excel Proficiency
